@@ -4,6 +4,8 @@
 * Mã môn học: CS114
 * Lớp học: CS114.L21
 * Gỉang viên: Lê Đình Duy, Phạm Nguyễn Trường An
+* Ngày bắt đầu: 1/3/21
+* Ngày kết thúc: 26/6/21
 ## Thành viên nhóm
 | STT | Họ và Tên | Mã số sinh viên | Email | Github |
 | - | --------- | --------------- | -------- | ------ |
