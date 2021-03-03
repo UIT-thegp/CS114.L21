@@ -6,6 +6,6 @@
 ## Thành viên nhóm
 | STT | Họ và Tên | Mã số sinh viên | Email | Github |
 | - | --------- | --------------- | -------- | ------ |
-| 1 | Phan Gia Phương | 19522067 | 19522067@gm.uit.edu.vn |  |
+| 1 | Phan Gia Phương | 19522067 | 19522067@gm.uit.edu.vn | [UIT-thegp] https://github.com/UIT-thegp |
 | 2 | |  | | |
 | 3 | |  | | |
